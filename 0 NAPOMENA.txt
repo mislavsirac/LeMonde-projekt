@@ -1,0 +1,6 @@
+connect.php
+- promijeniti server iz localhost u port koji vama odgovara
+
+Pristup administraciji:
+username: admin
+password: admin
